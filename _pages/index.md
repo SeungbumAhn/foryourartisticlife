@@ -1,3 +1,11 @@
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
+
+
 Please Try it at home.
 # Vatach
 ![[Pasted image 20220728173241.png]]
