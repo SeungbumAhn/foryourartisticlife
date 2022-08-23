@@ -1,4 +1,3 @@
-@ -0,0 +1,22 @@
 ---
 layout: page
 title: Home
