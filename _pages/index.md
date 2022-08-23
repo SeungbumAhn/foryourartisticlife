@@ -50,42 +50,31 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* ##### Under construction🌱
 * #### 기업분석 관련 자료 링크
 	* ##### 투자자윤님의 웰메이드 [명작리스트]자료집
-		https://m.blog.naver.com/ks200331022/222593743992
-		반도체산업분석 (기초 ~전공정)
-		https://m.blog.naver.com/shinsj1382/222589666324
-		PCB 기판 이해하기
-		https://m.blog.naver.com/glory4u_lee/222601842469
-		PCB산업 스터디
-		https://blog.naver.com/searosea/222636478022
-		+보완
-		https://m.blog.naver.com/searosea/222636650079
-		반도체패키징의 현재와 미래
-		https://m.blog.naver.com/kkwakk89/222715241924
-		반도체 공부법 총정리 ( 위와 겹치는것이 존재합니다) 
-		https://m.blog.naver.com/hhhhnk/222840001058
-		조선업에 대한 기본 이해와 기타 개념들
-		https://m.blog.naver.com/ehgur06/222421181213
-		양극재정리1,2
-		https://m.blog.naver.com/jglker/222747749031
-		OSAT 정리
-		https://m.blog.naver.com/jkhan012/222809300929
-	* 패키징의 대면적화 추세 (feat. 실리콘 러버소켓)
-		https://m.blog.naver.com/PostView.nhn?blogId=inacien777&logNo=222813054247&navType=by
-	* 우주 산업 생태계를 전반적으로 정리.
-		https://www.notboring.co/p/the-space-economy?utm_source=substack&utm_medium=email
+		* *[2차전제 제조공정의 이해](https://m.blog.naver.com/ks200331022/222593743992)
+		* [반도체산업분석 (기초 ~전공정)](https://m.blog.naver.com/shinsj1382/222589666324)
+		* [PCB 기판 이해하기](https://m.blog.naver.com/glory4u_lee/222601842469)
+		* [PCB산업 스터디](https://blog.naver.com/searosea/222636478022) [+보완](https://m.blog.naver.com/searosea/222636650079)
+		* [반도체패키징의 현재와 미래](https://m.blog.naver.com/kkwakk89/222715241924)
+		* [반도체 공부법 총정리 ( 위와 겹치는것이 존재합니다) ](https://m.blog.naver.com/hhhhnk/222840001058)
+		* [조선업에 대한 기본 이해와 기타 개념들](https://m.blog.naver.com/ehgur06/222421181213)
+		* [양극재정리1,2](https://m.blog.naver.com/jglker/222747749031)
+		* [OSAT 정리](https://m.blog.naver.com/jkhan012/222809300929)
+		* [패키징의 대면적화 추세 (feat. 실리콘 러버소켓)](https://m.blog.naver.com/PostView.nhn?blogId=inacien777&logNo=222813054247&navType=by)
+		* [우주 산업 생태계를 전반적으로 정리.](https://www.notboring.co/p/the-space-economy?utm_source=substack&utm_medium=email)
+	
 * #### 각종지수데이터확인사이트
 	 * ##### (22.08.23R01 양파님 자료 Update)
 		**1.산업금속 가격 및 재고량**
 		https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do](https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do)
-		**2.미국 베이커 휴즈 굴착장비수**
+		* 2.미국 베이커 휴즈 굴착장비수
 		[https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652](https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652)
-		**3.각종 지수, 금리, 커머디티가격**
+		* 3.각종 지수, 금리, 커머디티가격
 		[https://tradingeconomics.com/](https://tradingeconomics.com/)
-		**4.기업들 밸류나 다양한 밴드차트**
+		* 4.기업들 밸류나 다양한 밴드차트
 		[https://www.butler.works/home](https://www.butler.works/home)
-		**5.각종 철강재 가격 확인(유료회원가입 필요)**
+		* 5.각종 철강재 가격 확인(유료회원가입 필요)
 		[http://www.steeldaily.co.kr/dbcenter/](http://www.steeldaily.co.kr/dbcenter/)
-		**6.해운지수**
+		* 6.해운지수
 			[https://www.meic.kr/#1stPage](https://www.meic.kr/#1stPage)
 			각종 해운 지수 통합은 해운정보서비스가 제일이고 따로 보실꺼면
 			[http://www.shippingnewsnet.com/sdata/page.html](http://www.shippingnewsnet.com/sdata/page.html)
@@ -97,33 +86,33 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 			[https://fbx.freightos.com/](https://fbx.freightos.com/)
 			탱커운임
 			[https://kr.investing.com/indices/baltic-clean-tanker](https://kr.investing.com/indices/baltic-clean-tanker)
-		**7.각종 매크로 지표(인플레이션, 물건 ppi 등)**
+		* 7.각종 매크로 지표(인플레이션, 물건 ppi 등)
 		[https://fred.stlouisfed.org/](https://fred.stlouisfed.org/) (미국)
 		[https://www.index.go.kr/main.do](https://www.index.go.kr/main.do) (국내)
-		**8.미국 천연가스, 오일 데이터**
+		* 8.미국 천연가스, 오일 데이터
 		[https://www.eia.gov/](https://www.eia.gov/)
-		**9.중국 금속 가격(이차전지쪽)**
+		* 9.중국 금속 가격(이차전지쪽)
 		[http://www.icbattery.com/](http://www.icbattery.com/)
-		**10.폐기물 가격(폐지, 폐플라스틱 등)**
+		* 10.폐기물 가격(폐지, 폐플라스틱 등)
 		[https://www.recycling-info.or.kr/rrs/main.do](https://www.recycling-info.or.kr/rrs/main.do)
-		**11.직원 수 확인**
+		* 11.직원 수 확인
 		[https://www.kreditjob.com/](https://www.kreditjob.com/)
-		**12.글로벌 플랜트 발주 소식**
+		* 12.글로벌 플랜트 발주 소식
 		[https://plantproject.tistory.com/](https://plantproject.tistory.com/)
-		**13.수출입데이터**
+		* 13.수출입데이터
 		[https://stat.kita.net/newMain.screen](https://stat.kita.net/newMain.screen)
-		**14.각종 해외 뉴스, 상품데이터**
+		* 14.각종 해외 뉴스, 상품데이터
 		[https://dream.kotra.or.kr/kotranews/index.do](https://dream.kotra.or.kr/kotranews/index.do)
-		**15.각종 산업 동향 보고서**
+		* 15.각종 산업 동향 보고서
 		[https://rd.kdb.co.kr/index.jsp](https://rd.kdb.co.kr/index.jsp)
-		**16.회사의 간단한 재무, 밸류, 컨센서스 등**
+		* 16.회사의 간단한 재무, 밸류, 컨센서스 등
 		[http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005930&cID=&MenuYn=Y&ReportGB=D&NewMenuID=Y&stkGb=701](http://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005930&cID=&MenuYn=Y&ReportGB=D&NewMenuID=Y&stkGb=701)
 		[https://finance.naver.com/](https://finance.naver.com/)
-		**17.각종 레포트(유료 회원가입 필요)**
+		* 17.각종 레포트(유료 회원가입 필요)
 		https://www.wisereport.co.kr/Default.aspx)[https://www.wisereport.co.kr/](https://www.wisereport.co.kr/)
-		**18.외신 정보들(유료구독 필요)**
+		* 18.외신 정보들(유료구독 필요)
 		[https://www.bloomberg.com/](https://www.bloomberg.com/)
-		**19.각종 수출입 데이터, 기업, 산업 데이터 확인 및 다운로드(유료구독 필요)**
+		* 19.각종 수출입 데이터, 기업, 산업 데이터 확인 및 다운로드(유료구독 필요)
 		[https://bigfinance.co.kr/market/stock](https://bigfinance.co.kr/market/stock)
 
 
