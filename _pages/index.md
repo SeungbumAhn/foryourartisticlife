@@ -42,7 +42,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* ##### 안과장 포트폴리오
 	* ##### 안과장 투자일기
 	* ##### 맨날사는 안과장의 덕덕한 스마트스토어
-	* ##### 블랙리스트 VS VIP 리스트
+	* ##### 블랙리스트 vs VIP 리스트
 * #### 프로젝트 스토리지 
 	* ##### Under construction🌱
 * #### 기업분석 관련 자료 링크
@@ -58,6 +58,26 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		* [OSAT 정리](https://m.blog.naver.com/jkhan012/222809300929)
 		* [패키징의 대면적화 추세 (feat. 실리콘 러버소켓)](https://m.blog.naver.com/PostView.nhn?blogId=inacien777&logNo=222813054247&navType=by)
 		* [우주 산업 생태계를 전반적으로 정리.](https://www.notboring.co/p/the-space-economy?utm_source=substack&utm_medium=email)
+*
+* #### 금융관련 북마크
+	* [네이버 금융](https://finance.naver.com/)
+	* [Papago](https://papago.naver.com/)
+	* [버틀러](https://butler.works/report-company)
+	* [플래닛(flanit)](https://flanit.kr/search?category=finance&id=MCNYYL-R)
+	* [Company Guide](https://comp.fnguide.com/SVO2/ASP/SVD_main.asp?pGB=1&gicode=A005930&cID=&MenuYn=Y&ReportGB=&NewMenuID=11&stkGb=&strResearchYN=)
+	* [한경 컨센서스](https://markets.hankyung.com/consensus)
+	* [라이브스크리닝](https://docs.google.com/spreadsheets/d/1GxajcYKwLBhReBTXD4A62AZe4IxjZ_PeLWLiLM6BuZA/edit#gid=1850753976)
+	* [하나증권Report](https://m.hanaw.com:444/main/research/research/list.cmd?pid=0&cid=0)
+	* [이베스트Report](https://m.ebestsec.co.kr/invest/research/)
+	* [현대차증권Report](https://m.hmsec.com/mobile/research/research01_list.do?Menu_category=2)
+	* [IBK투자Report](http://m.ibks.com/outsite/mobile/industryList.jsp?mtsyn=N#depth02)
+	* [유진투자Report](https://m.eugenefn.com/ii31r.do)
+	* [하이투자Report](https://m.hi-ib.com:442/mobile/research/rs01.jsp?bid=R_E08&isSmartHi=null)
+	* [유안타Report](https://www.myasset.com/myasset/research/rs_list/rs_list.cmd?cd006=&cd007=&cd008=&m_menuId=ind#?1641138762341)
+	* [다올Report](https://m.daolsecurities.com/kr/NW/NW4T1.jsp#)
+	* [미래에셋Report](https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521)
+	* [삼성증권Report](https://www.samsungpop.com/sscommon/jsp/search_m/research.jsp)
+	* [신한금투Report](https://open.shinhaninvest.com/phone/investment/3112.jsp#none)
 	
 * #### 각종지수데이터확인사이트
 	 * ##### (22.08.23R01 양파님 자료 Update)
