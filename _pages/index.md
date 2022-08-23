@@ -64,22 +64,20 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	
 * #### 각종지수데이터확인사이트
 	 * ##### (22.08.23R01 양파님 자료 Update)
-		**1.산업금속 가격 및 재고량**
-		https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do](https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do)
+		* 1.산업금속 가격 및 재고량[https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do](https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do)
 		* 2.미국 베이커 휴즈 굴착장비수
-		[https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652](https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652)
+		  [https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652](https://kr.investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652)
 		* 3.각종 지수, 금리, 커머디티가격
-		[https://tradingeconomics.com/](https://tradingeconomics.com/)
+		  [https://tradingeconomics.com/](https://tradingeconomics.com/)
 		* 4.기업들 밸류나 다양한 밴드차트
-		[https://www.butler.works/home](https://www.butler.works/home)
+		  [https://www.butler.works/home](https://www.butler.works/home)
 		* 5.각종 철강재 가격 확인(유료회원가입 필요)
-		[http://www.steeldaily.co.kr/dbcenter/](http://www.steeldaily.co.kr/dbcenter/)
-		* 6.해운지수
-			[https://www.meic.kr/#1stPage](https://www.meic.kr/#1stPage)
+		  [http://www.steeldaily.co.kr/dbcenter/](http://www.steeldaily.co.kr/dbcenter/)
+		* 6.해운지수	[https://www.meic.kr/#1stPage](https://www.meic.kr/#1stPage)
 			각종 해운 지수 통합은 해운정보서비스가 제일이고 따로 보실꺼면
 			[http://www.shippingnewsnet.com/sdata/page.html](http://www.shippingnewsnet.com/sdata/page.html)
 			국내외 해운, 물류업계 뉴스 실시간 제공
-			www.shippingnewsnet.com](http://www.shippingnewsnet.com/sdata/page.html)
+			[www.shippingnewsnet.com](http://www.shippingnewsnet.com/sdata/page.html)
 			벌크선 운임지수
 			[https://en.sse.net.cn/indices/scfinew.jsp](https://en.sse.net.cn/indices/scfinew.jsp)
 			상하이 컨테이너 운임지수
