@@ -81,6 +81,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 			[https://fbx.freightos.com/](https://fbx.freightos.com/)
 			탱커운임
 			[https://kr.investing.com/indices/baltic-clean-tanker](https://kr.investing.com/indices/baltic-clean-tanker)
+			
 		* 7.각종 매크로 지표(인플레이션, 물건 ppi 등)
 		[https://fred.stlouisfed.org/](https://fred.stlouisfed.org/) (미국)
 		[https://www.index.go.kr/main.do](https://www.index.go.kr/main.do) (국내)
