@@ -8,9 +8,6 @@ permalink: /
 # Welcome! 🌱
 # 아트합시다. 건강한 주식 투자를 위하여🍷
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
 ## 안녕하세요 안과장입니다
 ## 북마크 인덱스 사이트입니다.
 ## 필요한 사이트들을 기술해 두었습니다.
@@ -114,3 +111,6 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		[https://bigfinance.co.kr/market/stock](https://bigfinance.co.kr/market/stock)
 
 
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+</p>
