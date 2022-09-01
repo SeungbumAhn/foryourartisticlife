@@ -184,8 +184,14 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 곤조투자가[https://t.me/twozaga](https://t.me/twozaga)
 	* 나름의 아이디어 공유 [https://t.me/nareumidea](https://t.me/nareumidea)
 	* 파더잉크의 투자 취향 공유 [https://t.me/fatherink](https://t.me/fatherink)
+	* 캬오의 공부방 [https://t.me/Kyaooo](https://t.me/Kyaooo)
+	* 신재생 그리고 가끔은 잡담 [https://t.me/renewables4future2022](https://t.me/renewables4future2022) 
+	* 호도리의 텔레그램 [https://t.me/hodolrytv](https://t.me/hodolrytv)
+	* 리스크와 함께하는 주식공부 [https://t.me/sunny_stock](https://t.me/sunny_stock)
+	* 수익사정관 기록 노트 [https://t.me/profitmentor718](https://t.me/profitmentor718)
+	* ASIPA의 TMI [https://t.me/ASIPA_TMI](https://t.me/ASIPA_TMI)
+	* JB홀딩스의 주말학습반 [https://t.me/JBSTOCKPAWNSHOP](https://t.me/JBSTOCKPAWNSHOP)
 	* 
-	* )
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
