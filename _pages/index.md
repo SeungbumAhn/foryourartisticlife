@@ -131,7 +131,6 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		* 19.각종 수출입 데이터, 기업, 산업 데이터 확인 및 다운로드(유료구독 필요)
 		[https://bigfinance.co.kr/market/stock](https://bigfinance.co.kr/market/stock)
 * #### 텔레그램 채널 링크 (개인투자자 위주 , 순위 없음 )
-	* 아이투자 투자정보 [https://t.me/itoozanews](https://t.me/itoozanews)
 	* Buff [https://t.me/bufkr](https://t.me/bufkr)
 	* 재야의 고수들 [https://t.me/gaoshoukorea](https://t.me/gaoshoukorea)
 	* 읽을거리 투자정보방 [https://t.me/wizhans](https://t.me/wizhans)
@@ -191,8 +190,22 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 수익사정관 기록 노트 [https://t.me/profitmentor718](https://t.me/profitmentor718)
 	* ASIPA의 TMI [https://t.me/ASIPA_TMI](https://t.me/ASIPA_TMI)
 	* JB홀딩스의 주말학습반 [https://t.me/JBSTOCKPAWNSHOP](https://t.me/JBSTOCKPAWNSHOP)
+	* 하남이 저장고 [https://t.me/atozhanam](https://t.me/atozhanam)
+	* Ryan Archives [https://t.me/ryanarchives2022](https://t.me/ryanarchives2022)
+	* 큰그림 [https://t.me/standard_free](https://t.me/standard_free)
 	* 
+* #### 애널리스트 채널
+	* 이베스트제약/바이오 강하나 [https://t.me/pharmbiohana](https://t.me/pharmbiohana)
+	*  
 
+* #### 산업뉴스관련 채널
+	* 아이투자 투자정보 [https://t.me/itoozanews](https://t.me/itoozanews)
+	* 한국경제 [https://t.me/hankyung_fin](https://t.me/hankyung_fin)
+	* 산업뉴스채널_서율경제 [https://t.me/sedaily_industry_company](https://t.me/sedaily_industry_company)
+	* 경제이야기 [https://t.me/economystory](https://t.me/economystory)
+	* AWAKE - 실시간 주식 공시 정리채널 [https://t.me/darthacking](https://t.me/darthacking)
+	* 실시간 주식 뉴스 [https://t.me/realtime_stock_news](https://t.me/realtime_stock_news)
+	* 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
