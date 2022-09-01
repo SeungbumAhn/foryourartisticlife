@@ -136,7 +136,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 재야의 고수들 [https://t.me/gaoshoukorea](https://t.me/gaoshoukorea)
 	* 읽을거리 투자정보방 [https://t.me/wizhans](https://t.me/wizhans)
 	* 선수촌 [https://t.me/athletes_village](https://t.me/athletes_village)
-	* 뺀지뤼의 스크랩 [https://t.me/bbanjile](https://t.me/bbanjile)
+	* 뺀지뤼의 스크랩 [https://t.me/bbanjil](https://t.me/bbanjil)
 	* 재테크야간자율학습방 [https://t.me/capitalmosquito](https://t.me/capitalmosquito)
 	* 투자공부하는 김라브 [https://t.me/kim_rob](https://t.me/kim_rob)
 	* 컴플대피소에서 알려드립니다 [https://t.me/cpshelter](https://t.me/cpshelter)
