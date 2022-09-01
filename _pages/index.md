@@ -193,6 +193,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 하남이 저장고 [https://t.me/atozhanam](https://t.me/atozhanam)
 	* Ryan Archives [https://t.me/ryanarchives2022](https://t.me/ryanarchives2022)
 	* 큰그림 [https://t.me/standard_free](https://t.me/standard_free)
+	* 인베스퀴즈 [https://t.me/invesqz](https://t.me/invesqz)
 	* 
 * #### 애널리스트 채널
 	* 이베스트제약/바이오 강하나 [https://t.me/pharmbiohana](https://t.me/pharmbiohana)
