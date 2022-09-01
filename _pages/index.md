@@ -130,7 +130,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		[https://www.bloomberg.com/](https://www.bloomberg.com/)
 		* 19.각종 수출입 데이터, 기업, 산업 데이터 확인 및 다운로드(유료구독 필요)
 		[https://bigfinance.co.kr/market/stock](https://bigfinance.co.kr/market/stock)
-* #### 텔레그램 채널 링크 (개인투자자 위주 , 순위 없음 )
+* #### 텔레그램 채널 링크 (개인투자자 위주 , 순위 없음 ) R001 22.09.01
 	* Buff [https://t.me/bufkr](https://t.me/bufkr)
 	* 재야의 고수들 [https://t.me/gaoshoukorea](https://t.me/gaoshoukorea)
 	* 읽을거리 투자정보방 [https://t.me/wizhans](https://t.me/wizhans)
