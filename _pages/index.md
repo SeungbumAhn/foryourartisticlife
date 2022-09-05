@@ -61,6 +61,9 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		* [OSAT 정리](https://m.blog.naver.com/jkhan012/222809300929)
 		* [패키징의 대면적화 추세 (feat. 실리콘 러버소켓)](https://m.blog.naver.com/PostView.nhn?blogId=inacien777&logNo=222813054247&navType=by)
 		* [우주 산업 생태계를 전반적으로 정리.](https://www.notboring.co/p/the-space-economy?utm_source=substack&utm_medium=email)
+	* ##### [OSAT,반도체(위탁조립&테스트)](https://m.blog.naver.com/jkhan012/222809300929)
+	* ##### [투자의 정석1-2-3합본](https://blog.naver.com/daramagb/222867098044)
+	* 
 *
 * #### 금융관련 북마크
 	* [네이버 금융](https://finance.naver.com/)
