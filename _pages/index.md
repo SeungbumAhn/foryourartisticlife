@@ -28,6 +28,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 ### 안과장 관련 링크
 * #### 텔레그램 [T.me/korea_Value](http://t.me/s/korea_Value)
 * #### 유튜브 [아트합시다안과장TV](https://www.youtube.com/c/아트합시다안과장TV)
+* #### 블로그 [시장의단상 Keep](https://blog.naver.com/daramagb)
+* #### 홈페이지 [공사중]
 * #### 프로젝트list 
 	* ##### 라이브스크리닝 [접속링크](https://docs.google.com/spreadsheets/d/1GxajcYKwLBhReBTXD4A62AZe4IxjZ_PeLWLiLM6BuZA/edit#gid=1850753976)
 		* 바텍
