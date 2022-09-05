@@ -43,6 +43,9 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* ##### 안과장 투자일기
 	* ##### 맨날사는 안과장의 덕덕한 스마트스토어
 	* ##### 블랙리스트 vs VIP 리스트
+	* ##### 번외편
+		* [증권투자권유대행_2과목요약](https://docs.google.com/document/d/1T6oKKsaGxoIB1lvPRVi1dS0kjiNlkCGIMcgVcN2e6X0/edit?usp=sharing)
+		* [주식투자프로세스_제작중](https://drive.google.com/file/d/1q5QvA-qFbwM9DGO5jNQgGHk3YzFxor25/view?usp=sharing)
 * #### 프로젝트 스토리지 
 	* ##### Under construction🌱
 * #### 기업분석 관련 자료 링크
