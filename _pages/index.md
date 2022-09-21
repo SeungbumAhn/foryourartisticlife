@@ -299,7 +299,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 샐러리맨 아트 컬렉터 - 김정환 저
 	* 재무제표 처음공부 - 대럴멀리스 저
 	* 역발상 주식투자 - 켄피셔 저 
-	* 
+	* TEST
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
