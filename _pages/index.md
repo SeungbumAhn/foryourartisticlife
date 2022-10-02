@@ -41,6 +41,9 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 * ### 안과장 관련 링크
 	* #### 텔레그램 [T.me/korea_Value](http://t.me/s/korea_Value)
+	* #### 오픈채팅방 [https://t.me/foryourartisticlife2022](https://t.me/foryourartisticlife2022) 
+		안과장의 시스템 1 스크랩이 모두 모이는 곳입니다. (상시 안과장을 부르면 나옵니다. )
+		여기서 정례된 자료가 텔레그램 채널로 업로드 됩니다.
 	* #### 유튜브 [아트합시다안과장TV](https://www.youtube.com/c/아트합시다안과장TV)
 	* #### 블로그 [시장의단상 Keep](https://blog.naver.com/daramagb)
 	* #### 홈페이지 [공사중]
