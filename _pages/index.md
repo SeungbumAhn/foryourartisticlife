@@ -24,33 +24,47 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 # [#Foryourartisticlife](http://foryourartisticlife.com)
 
 22.09.24 Update (클리앙 Ducktalesss 님 링크 업데이트 감사합니다.)
+* ### 투자블로거 형님들 리스트- [[Blogger_list]]  (22.10.2 Updated- 현재기준 600분)
+* ### 안과장이 구독하는(애정하는) 유튜브 채널 리스트
+	* [재간둥이송선생](https://www.youtube.com/c/%ED%88%AC%EC%9E%90%EC%9E%90%EC%86%A1%EC%A2%85%EC%8B%9D)
+	* [슈카월드](https://www.youtube.com/c/%EC%8A%88%EC%B9%B4%EC%9B%94%EB%93%9C)
+	* [최신특허TV](https://www.youtube.com/channel/UC4VONHYCr_74-zW63PpiTFQ)
+	* [브자TV](https://www.youtube.com/c/%EB%B8%8C%EC%9D%B4%EC%95%84%EC%9D%B4%ED%94%BC%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9)
+	* [김철광](https://www.youtube.com/channel/UCxZYgyZ_3Uu61mIM8TinsNg)
+	* [체리형부](https://www.youtube.com/c/%EC%B2%B4%EB%A6%AC%ED%98%95%EB%B6%80)
+	* [레인메이커](https://www.youtube.com/c/%EC%B2%B4%EB%A6%AC%ED%98%95%EB%B6%80)
+	* [주고생](https://www.youtube.com/channel/UCRUQeLik90bzg4esT-xtLDw)
+	* [메이킹알파](https://www.youtube.com/channel/UC9gpRESyCBRLwNeW53-khtQ)
+	* [필미필미TV](https://www.youtube.com/c/%ED%95%84%EB%AF%B8%ED%95%84%EB%AF%B8TV)
+	* [와이스트릿](https://www.youtube.com/c/%EC%99%80%EC%9D%B4%EC%8A%A4%ED%8A%B8%EB%A6%BFYstreet)
+	* [가치투자101](https://www.youtube.com/c/%EA%B0%80%EC%B9%98%ED%88%AC%EC%9E%901)
 
-### 안과장 관련 링크
-* #### 텔레그램 [T.me/korea_Value](http://t.me/s/korea_Value)
-* #### 유튜브 [아트합시다안과장TV](https://www.youtube.com/c/아트합시다안과장TV)
-* #### 블로그 [시장의단상 Keep](https://blog.naver.com/daramagb)
-* #### 홈페이지 [공사중]
-* #### 프로젝트list 
-	* ##### 라이브스크리닝 [접속링크](https://docs.google.com/spreadsheets/d/1GxajcYKwLBhReBTXD4A62AZe4IxjZ_PeLWLiLM6BuZA/edit#gid=1850753976)
-		* 바텍
-		* 삼양사
-		* 브랜드엑스코퍼레이션
-		* 오리온
-	* ##### 반도체스터디
-	* ##### 산업스터디
-	* ##### 안과장의 미국투자이야기 (암호명 :  영원한 매수)
-	* ##### 이익수익률+자본수익률 =? 조엘그린블라트 투자미러링 그 1년의 시간
-	* ##### 라이브월급독립프로젝트 : 직장인 월급을 투자로 만들기 월청산 스윙머신
-	* ##### 안과장 포트폴리오
-	* ##### 안과장 투자일기
-	* ##### 맨날사는 안과장의 덕덕한 스마트스토어
-	* ##### 블랙리스트 vs VIP 리스트
-	* ##### 번외편
-		* [증권투자권유대행_2과목요약](https://docs.google.com/document/d/1T6oKKsaGxoIB1lvPRVi1dS0kjiNlkCGIMcgVcN2e6X0/edit?usp=sharing)
-		* [주식투자프로세스_제작중](https://drive.google.com/file/d/1q5QvA-qFbwM9DGO5jNQgGHk3YzFxor25/view?usp=sharing)
-* #### 프로젝트 스토리지 
+* ### 안과장 관련 링크
+	* #### 텔레그램 [T.me/korea_Value](http://t.me/s/korea_Value)
+	* #### 유튜브 [아트합시다안과장TV](https://www.youtube.com/c/아트합시다안과장TV)
+	* #### 블로그 [시장의단상 Keep](https://blog.naver.com/daramagb)
+	* #### 홈페이지 [공사중]
+	* #### 프로젝트list 
+		* ##### 라이브스크리닝 [접속링크](https://docs.google.com/spreadsheets/d/1GxajcYKwLBhReBTXD4A62AZe4IxjZ_PeLWLiLM6BuZA/edit#gid=1850753976)
+			* 바텍
+			* 삼양사
+			* 브랜드엑스코퍼레이션
+			* 오리온
+		* ##### 반도체스터디
+		* ##### 산업스터디
+		* ##### 안과장의 미국투자이야기 (암호명 :  영원한 매수)
+		* ##### 이익수익률+자본수익률 =? 조엘그린블라트 투자미러링 그 1년의 시간
+		* ##### 라이브월급독립프로젝트 : 직장인 월급을 투자로 만들기 월청산 스윙머신
+		* ##### 안과장 포트폴리오
+		* ##### 안과장 투자일기
+		* ##### 맨날사는 안과장의 덕덕한 스마트스토어
+		* ##### 블랙리스트 vs VIP 리스트
+		* ##### 번외편
+			* [증권투자권유대행_2과목요약](https://docs.google.com/document/d/1T6oKKsaGxoIB1lvPRVi1dS0kjiNlkCGIMcgVcN2e6X0/edit?usp=sharing)
+			* [주식투자프로세스_제작중](https://drive.google.com/file/d/1q5QvA-qFbwM9DGO5jNQgGHk3YzFxor25/view?usp=sharing)
+* ### 프로젝트 스토리지 
 	* ##### Under construction🌱
-* #### 기업분석 관련 자료 링크
+* ### 기업분석 관련 자료 링크
 	* ##### 투자자윤님의 웰메이드 [명작리스트]자료집
 		* *[2차전제 제조공정의 이해](https://m.blog.naver.com/ks200331022/222593743992)
 		* [반도체산업분석 (기초 ~전공정)](https://m.blog.naver.com/shinsj1382/222589666324)
@@ -67,7 +81,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* ##### [투자의 정석1-2-3합본](https://blog.naver.com/daramagb/222867098044)
 	* 
 *
-* #### 금융관련 북마크
+* ### 금융관련 북마크
 	* [네이버 금융](https://finance.naver.com/)
 	* [Papago](https://papago.naver.com/)
 	* [버틀러](https://butler.works/report-company)
@@ -86,8 +100,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* [미래에셋Report](https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521)
 	* [삼성증권Report](https://www.samsungpop.com/sscommon/jsp/search_m/research.jsp)
 	* [신한금투Report](https://open.shinhaninvest.com/phone/investment/3112.jsp#none)
-	
-* #### 각종지수데이터확인사이트
+
+* ### 각종지수데이터확인사이트
 	 * ##### (22.08.23R01 양파님 자료 Update)
 		* 1.산업금속 가격 및 재고량[https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do](https://www.kores.net/komis/price/mineralprice/basemetals/pricetrend/baseMetals.do)
 		* 2.미국 베이커 휴즈 굴착장비수
@@ -138,7 +152,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 		[https://www.bloomberg.com/](https://www.bloomberg.com/)
 		* 19.각종 수출입 데이터, 기업, 산업 데이터 확인 및 다운로드(유료구독 필요)
 		[https://bigfinance.co.kr/market/stock](https://bigfinance.co.kr/market/stock)
-* #### 텔레그램 채널 링크 (개인투자자 위주 , 순위 없음 ) R001 22.09.01
+* ### 텔레그램 채널 링크 (개인투자자 위주 , 순위 없음 ) R001 22.09.01
 	* Buff [https://t.me/bufkr](https://t.me/bufkr)
 	* 재야의 고수들 [https://t.me/gaoshoukorea](https://t.me/gaoshoukorea)
 	* 읽을거리 투자정보방 [https://t.me/wizhans](https://t.me/wizhans)
@@ -204,7 +218,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 인베스퀴즈 [https://t.me/invesqz](https://t.me/invesqz)
 	* 트렌드 세터(trend setter)[https://t.me/wook0408](https://t.me/wook0408)
 	* 
-* #### 애널리스트 채널
+* ### 애널리스트 채널
 	* 이베스트제약/바이오 강하나 [https://t.me/pharmbiohana](https://t.me/pharmbiohana)
 	* 미래에셋증권 미디어컨텐츠본부 서상영 : [https://t.me/ehdwl](https://t.me/ehdwl)
 	* 미래에셋증권 글로벌 인터넷 정용제/조연주 : [https://t.me/miraeyj](https://t.me/miraeyj)
@@ -320,7 +334,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 한양증권 제약/바이오 오병용 : [t.me/bdragon0808](http://t.me/bdragon0808)
 	* 상상인증권 리서치 백영찬 : [https://t.me/KBchem](https://t.me/KBchem)
 
-* #### 산업뉴스관련 채널
+* ### 산업뉴스관련 채널
 	* 아이투자 투자정보 [https://t.me/itoozanews](https://t.me/itoozanews)
 	* 한국경제 [https://t.me/hankyung_fin](https://t.me/hankyung_fin)
 	* 산업뉴스채널_서율경제 [https://t.me/sedaily_industry_company](https://t.me/sedaily_industry_company)
@@ -329,7 +343,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 실시간 주식 뉴스 [https://t.me/realtime_stock_news](https://t.me/realtime_stock_news)
 
 
-* #### 리디북스 도서추천(내돈내산 직접 읽은 전자책)
+* ### 리디북스 도서추천(내돈내산 직접 읽은 전자책)
 	* 버핏클럽 1-5 
 	* 룬샷 - 샤피 바칼
 	* 주식투자의 지혜 - 천장팅
@@ -370,7 +384,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 어느날 갑자기 공황이 찾아왔다 - 클라우스 베른하르트
 	* 나의 월급 독립 프로젝트 - 유목민
 	
-* #### 밀리의서재 도서추천(직접 읽은 전자책)
+* ### 밀리의서재 도서추천(직접 읽은 전자책)
 	* 주식시장의 마법사들 -젝슈웨거 저
 	* 현금의 재발견 - 윌리엄손다이크 저
 	* 투자를 어떻게 할 것인가 - 모니시파브라이 저
