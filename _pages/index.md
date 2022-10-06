@@ -102,7 +102,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* [다올Report](https://m.daolsecurities.com/kr/NW/NW4T1.jsp#)
 	* [미래에셋Report](https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521)
 	* [삼성증권Report](https://www.samsungpop.com/sscommon/jsp/search_m/research.jsp)
-	* [신한금투Report](https://open.shinhaninvest.com/phone/investment/3112.jsp#none)
+	* [신한금투Report](https://open.shinhaninvest.com/phone/investment/3112.jsp#none
+	* [한국IR협의회](https://www.kirs.or.kr/research/research22_1.html)
 
 * ### 각종지수데이터확인사이트
 	 * ##### (22.08.23R01 양파님 자료 Update)
@@ -220,7 +221,9 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 	* 큰그림 [https://t.me/standard_free](https://t.me/standard_free)
 	* 인베스퀴즈 [https://t.me/invesqz](https://t.me/invesqz)
 	* 트렌드 세터(trend setter)[https://t.me/wook0408](https://t.me/wook0408)
-	* 
+	* Cathy Idea Depot[https://t.me/Cathy_Idea](https://t.me/Cathy_Idea)
+
+
 * ### 애널리스트 채널
 	* 이베스트제약/바이오 강하나 [https://t.me/pharmbiohana](https://t.me/pharmbiohana)
 	* 미래에셋증권 미디어컨텐츠본부 서상영 : [https://t.me/ehdwl](https://t.me/ehdwl)
